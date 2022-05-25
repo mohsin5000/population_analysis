@@ -1,6 +1,6 @@
 
 
-![Population Comparison](output.png)
+![Population Comparison](population_usecase.pdf)
 
 **Interpretation**
 
